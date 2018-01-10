@@ -5,9 +5,9 @@ You can get __\<Bundle URL\>__ and __\<Data Container URL\>__ from the list with
 
 ## AppList with UI
 #### Notices
-Tested on jailed iOS 10.
-Tested on __jailbroken iOS 11__.
-Not tested on tvOS.
+Tested on jailed iOS 10.  
+Tested on __jailbroken iOS 11__.  
+Not tested on tvOS.  
 
 #### Usage
 Just run it.
